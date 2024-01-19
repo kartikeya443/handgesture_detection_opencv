@@ -17,7 +17,10 @@ imgSize = 300
 labels = ["A", "B", "C", "Hello!", "Love You!", "No!", "Yes!"]
 
 # data trained using Teachable Machine by withGoogle
-classifier = Classifier("Model/keras_model.h5", "Model/labels.txt")
+model_path = 'Model/keras_model.h5'
+labels_file_path = 'Model/labels.txt'
+
+classifier = Classifier(model_path, labels_file_path)
 
 #function
 while True:
