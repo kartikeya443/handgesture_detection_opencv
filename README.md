@@ -16,12 +16,13 @@ pip install -r requirements.txt
 python testing.py
 ```
 
-## Reference images:
-![A](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/5138f33c-e017-4bfc-9a3d-b644237b83aa)
-![B](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/a3f4cfcd-c5b1-42fe-baf3-cee6aa885586)
-![C](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/6066c87f-41fd-47fe-99b8-544f2f75ba22)
-![hello](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/f2c23372-83e3-4d80-9446-096b130c6e97)
-![love](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/9b761545-c28b-4953-97f3-728f43e429f7)
-![yes](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/bf52770d-7aa0-4a72-aaad-b8bdcfe0e9a0)
-![no](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/aafdd6ee-3648-4299-b25e-7260d90a456d)
 
+## Reference images:
+
+![A (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/4583a290-3347-4f5c-809d-07be87773ebd)
+![B (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/40e6e157-8b09-4c01-a38c-1faaaf1e63c7)
+![C (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/89f983ef-c12f-493b-9efb-1fe465da37ad)
+![hello (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/19670895-414f-4c55-b63c-c486987cb952)
+![love (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/0f7fe713-e975-4cf7-861b-28ce06187dc4)
+![yes (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/fd1c2ec5-c3c3-4c4d-9551-c8c9b7d29c88)
+![no (Small)](https://github.com/kartikeya443/handgesture_detection_opencv/assets/47322223/b6bc6a6f-fa09-428e-9e06-90ecb834fb4b)
